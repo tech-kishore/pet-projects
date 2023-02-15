@@ -1,4 +1,5 @@
-# 10 Programming Pet Projects - _Ref_[https://betterprogramming.pub/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16]
+# 10 Programming Pet Projects
+[_Reference project list_ ](https://betterprogramming.pub/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16)
 
 ### Improving skills in web development, programming, UI, automation and more...
 

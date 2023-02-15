@@ -19,6 +19,9 @@
 > Instead, you can think through an entire system. You need to consider how you are going to automate the process, manage the database, create the website and select the posts. This also allows you to actually have a tangible end product.
 >
 >**Skills:** Database, web scraper, automation, web development (for the blog), and general programming.
+>
+> ### 2. An event-alert system using Meetup and Eventbrite APIs
+
 
 
 

@@ -6,6 +6,10 @@
 
 ## Entertainment
 > ### 1. A web scraper that posts top 10 blogs without human intervention
+> - built a web scraper and scraped the data
+> - build a website with that data
+> - 
+>  It doesn’t have to be fancy or get a lot of views. This scraper could pull the data into a database and then select the most popular posts. 
 
 
 
